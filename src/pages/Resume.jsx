@@ -8,12 +8,12 @@ const Resume = () => {
   return (
     <>
       <div className="flex flex-col justify-end w-full relative">
-        <div className="relative flex flex-col lg:flex-row p-10 items-start justify-center text-center gap-[3rem] lg:gap-[6rem] lg:h-fit sm:h-full">
+        <div className="relative flex flex-col lg:flex-row p-10 items-center justify-center text-center gap-[3rem] lg:gap-[6rem] lg:h-fit sm:h-full">
           <Education />
           <Projects />
           <div className="flex flex-col gap-5">
-          <Skills />
-          <Languages/>
+            <Skills />
+            <Languages />
           </div>
         </div>
       </div>

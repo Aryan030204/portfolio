@@ -5,8 +5,8 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col justify-end w-full h-[40rem] relative">
       <div className="flex flex-col relative items-start w-fit ml-[3rem] mb-[8rem] h-fit">
-        <div className="flex items-center">
-          <h1 className="text-white text-[6rem]">
+        <div className="flex items-center h-[30rem]">
+          <h1 className="text-white text-[4rem] lg:text-[6rem]">
             Hello, I am <br />{" "}
             <span className="font-bold lg:text-[7rem]">
               <Typewriter
