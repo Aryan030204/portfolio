@@ -3,7 +3,7 @@ import React from "react";
 const WhoAmI = () => {
   return (
     <section className="flex flex-col gap-6 sm:gap-8 justify-start text-white w-full max-w-[30rem] px-4 sm:px-0">
-      <h1 className="text-2xl sm:text-6xl font-bold md:text-4xl">
+      <h1 className="text-5xl lg:text-6xl font-bold md:text-4xl">
         <span className="underline underline-offset-4">Wh</span>o am I ?
       </h1>
 

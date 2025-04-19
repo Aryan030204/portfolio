@@ -1,5 +1,4 @@
 import React from "react";
-import hero from "../assets/heroBanner.jpg";
 import { Typewriter } from "react-simple-typewriter";
 import { Link } from "react-router-dom";
 const HeroSection = () => {

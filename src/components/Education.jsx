@@ -2,7 +2,7 @@ import React from "react";
 
 const Education = () => {
   return (
-    <div className="flex flex-col border-2 border-white bg-white h-[33rem] w-[30rem] rounded-b-4xl">
+    <div className="flex flex-col border-2 border-white bg-white h-[33rem] w-[22rem] lg:w-[30rem] rounded-b-4xl">
       <div className="flex w-full h-1/4 items-center justify-start p-10">
         <h1 className="text-4xl font-bold text-red-500">
           <span className="underline underline-offset-8">Edu</span>cation

@@ -4,7 +4,7 @@ import React from "react";
 const Expertise = () => {
   return (
     <div className="flex flex-col items-center gap-12 justify-start h-full text-white w-full max-w-1/2 px-0">
-      <h1 className="lg:text-3xl text-6xl font-bold whitespace-nowrap md:text-4xl">
+      <h1 className="lg:text-5xl text-5xl font-bold whitespace-nowrap md:text-4xl">
         <span className="underline underline-offset-4">M</span>y Expertise
       </h1>
 

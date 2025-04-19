@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 
 const GetInTouch = () => {
   return (
-    <div className="max-w-md mx-auto w-[40rem] h-[45rem] bg-white shadow-md rounded-md p-8">
+    <div className="max-w-md mx-auto w-[22rem] h-[45rem] lg:w-[30rem] bg-white shadow-md rounded-md p-8">
       <h2 className="text-3xl lg:text-2xl font-bold text-gray-800 mb-6">
         <span className="text-red-500 underline underline-offset-4">Get</span>{" "}
         in touch

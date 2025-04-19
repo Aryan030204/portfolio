@@ -19,7 +19,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="max-w-2xl w-[30rem] h-[45rem] lg:w-[40rem] mx-auto bg-white shadow-md rounded-md p-8">
+    <div className="max-w-2xl w-[22rem] h-[35rem] lg:w-[40rem] mx-auto bg-white shadow-md rounded-md p-8">
       <h2 className="text-3xl lg:text-2xl font-bold text-gray-800 mb-4">
         <span className="text-red-500 underline underline-offset-4">Send</span>{" "}
         a message
