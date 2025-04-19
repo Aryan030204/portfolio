@@ -12,7 +12,7 @@ const Skills = () => {
   ];
 
   return (
-    <div className='flex flex-col text-start border-2 bg-white h-[20rem] w-[27rem] lg:w-[30rem]'>
+    <div className='flex flex-col text-start border-2 bg-white h-[20rem] w-[24rem] lg:w-[30rem]'>
       <div className='flex w-full items-center justify-start p-10'>
         <h1 className='text-4xl text-blue-500 font-bold'>
           <span className='underline underline-offset-8'>Ski</span>lls
