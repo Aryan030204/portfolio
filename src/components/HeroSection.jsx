@@ -30,7 +30,7 @@ const HeroSection = () => {
           <div className="flex text-white bg-red-400 w-fit p-2 rounded-2xl mt-3 font-bold">
             <Link
               to={
-                "https://drive.google.com/file/d/15uij-R0D7-f3IE7rmDezub-jeXKAzxha/view?usp=sharing"
+                "https://drive.google.com/file/d/1mUPRnEKM0rxKMNbFMkrwiYeMFhkxhwZr/view?usp=sharing"
               } target="_blank"
             >
               Download Resume
