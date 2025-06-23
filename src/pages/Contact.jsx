@@ -4,7 +4,7 @@ import GetInTouch from "../components/GetInTouch";
 const Contact = () => {
   return (
     <>
-      <div className="flex flex-col my-4 lg:top-[15rem] lg:flex-row gap-[5rem] justify-end w-full sm:h-[160vh] relative">
+      <div className="flex flex-col lg:p-0 p-[1rem] lg:top-[15rem] lg:flex-row gap-[5rem] justify-end w-full sm:h-[160vh] relative">
         <ContactForm/>
         <GetInTouch/>
       </div>
