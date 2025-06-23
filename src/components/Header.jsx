@@ -24,11 +24,14 @@ const Header = () => {
         >
           ABOUT
         </Link>
-        <img
-          src={dp}
-          alt="dp_avatar"
-          className="w-[10rem] rounded-full border-[5px] border-white top-6 relative transition delay-100 duration-300 hover:shadow-lg hover:-translate-y-1 shadow-white z-9"
-        />
+        <Link to={"/"}>
+          <img
+            src={dp}
+            alt="dp_avatar"
+            className="w-[10rem] rounded-full border-[5px] border-white top-6 relative transition delay-100 duration-300 hover:shadow-lg hover:-translate-y-1 shadow-white z-9 cursor-pointer"
+          />
+        </Link>
+
         <Link
           className="transition delay-100 duration-300 ease-in-out hover:-translate-y-1"
           to={"/resume"}
