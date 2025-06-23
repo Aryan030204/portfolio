@@ -6,11 +6,11 @@ const HeroSection = () => {
     <div className="flex flex-col justify-end w-full h-[40rem] relative">
       <div className="flex flex-col relative items-start w-fit ml-[3rem] mb-[8rem] h-fit">
         <div className="flex items-center h-[30rem]">
-          <h1 className="text-white text-[4rem] lg:text-[6rem]">
+          <h1 className="text-white text-[3.5rem] lg:text-[6rem]">
             Hello, I am <br />{" "}
-            <span className="font-bold lg:text-[7rem]">
+            <span className="font-bold text-[2rem] text-red-500 lg:text-[7rem]">
               <Typewriter
-                words={["ARYAN AR."]}
+                words={["ARYAN ARORA"]}
                 loop={0}
                 cursor
                 cursorStyle="|"

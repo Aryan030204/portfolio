@@ -4,7 +4,7 @@ import { Github, Linkedin, Instagram, Mail } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="relative z-1 w-screen h-[25vh] bg-[#0f0f0f] text-white px-8 py-10 mt-[3rem]">
+    <footer className="relative z-1 w-screen h-[32vh] bg-[#0f0f0f] text-white px-8 py-10">
       <div className="max-w-7xl mx-auto h-full flex flex-col lg:flex-row justify-between items-center gap-8">
         {/* Left: Branding */}
         <div className="text-center lg:text-left">
