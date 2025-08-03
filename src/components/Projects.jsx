@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="flex flex-col w-full p-4 text-start">
           <div className="flex w-full justify-between items-center">
             <h3 className="text-lg font-bold text-green-500 hover:underline">
-              <Link to={"https://github.com/Aryan030204/Serenova-Empowering-Women--Protecting-Futures"} target="_blank">Serenova - empowering women, protecting futures</Link>
+              <Link to={"https://serenova-eta.vercel.app/"} target="_blank">Serenova - empowering women, protecting futures</Link>
             </h3>
           </div>
           <h4 className="text-sm font-semibold">MERN + PYTHON</h4>
