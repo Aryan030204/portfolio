@@ -29,7 +29,7 @@ const Projects = () => {
         <div className="flex flex-col w-full p-4 text-start">
           <div className="flex w-full justify-between items-center">
             <h3 className="text-lg font-bold text-green-500 hover:underline">
-              <Link to={"https://github.com/Aryan030204/chat-app-mern"} target="_blank">Convosphere - chat with privacy</Link>
+              <Link to={"https://chat-app-mern-18de.onrender.com/"} target="_blank">Convosphere - chat with privacy</Link>
             </h3>
           </div>
           <h4 className="text-sm font-semibold">MERN</h4>
