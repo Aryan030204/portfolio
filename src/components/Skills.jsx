@@ -8,14 +8,14 @@ const Skills = () => {
     { name: "REACT", level: 95 },
     { name: "EXPRESS", level: 90 },
     { name: "RELATIONAL DATABASES", level: 75 },
-    { name: "NON RELATIONAL DATABASES", level: 80 },
+    { name: "NON RELATIONAL DATABASES", level: 80 }
   ];
 
   return (
     <div className='flex flex-col text-start border-2 bg-white h-[20rem] w-[24rem] lg:w-[30rem]'>
       <div className='flex w-full items-center justify-start p-10'>
         <h1 className='text-4xl text-blue-500 font-bold'>
-          <span className='underline underline-offset-8'>Ski</span>lls
+          <span className='underline underline-offset-8'>Ke</span>y skills
         </h1>
       </div>
       <hr className='text-gray-500' />

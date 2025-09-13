@@ -5,7 +5,7 @@ const Languages = () => {
     <div className="flex flex-col border-2 bg-white h-[11.6rem] w-[24rem] lg:w-[30rem] rounded-b-4xl">
       <div className="flex w-full h-1/4 items-center justify-start p-10">
         <h1 className="text-4xl font-bold text-blue-500">
-          <span className="underline underline-offset-8">Lan</span>guages
+          <span className="underline underline-offset-8">La</span>nguages
         </h1>
       </div>
       <hr className="text-gray-500" />
